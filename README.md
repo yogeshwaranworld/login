@@ -1,2 +1,2 @@
 # login
-Login Page HTML Template
+Login Page HTML Template.
